@@ -1,0 +1,4 @@
+# 需要美国节点的规则
+
+#Hostloc
+DOMAIN-SUFFIX,hostloc.com

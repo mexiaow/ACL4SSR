@@ -1,4 +1,5 @@
-#PT站
+# 需要强制走代理的规则
+
 
 #观众
 DOMAIN-SUFFIX,audiences.me  
