@@ -3,7 +3,7 @@
 #常用
 IP-CIDR,43.143.112.72/32
 DOMAIN-SUFFIX,xiaow.org
-#DOMAIN-SUFFIX,iee.ee
+DOMAIN-SUFFIX,iee.ee
 DOMAIN-SUFFIX,picouo.com
 
 #种子
