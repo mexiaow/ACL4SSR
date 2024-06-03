@@ -1,7 +1,8 @@
 #强制DIRECT
 
 #常用
-IP-CIDR,43.143.112.72/32
+#IP-CIDR,43.143.112.72/32
+DOMAIN-SUFFIX,myunraid.net
 DOMAIN-SUFFIX,xiaow.org
 DOMAIN-SUFFIX,iee.ee
 DOMAIN-SUFFIX,picouo.com
