@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,myunraid.net
 DOMAIN-SUFFIX,xiaow.org
 DOMAIN-SUFFIX,iee.ee
 DOMAIN-SUFFIX,picouo.com
+PROCESS-NAME,nezha-agent,DIRECT
 
 #种子
 DOMAIN-KEYWORD,tracker
