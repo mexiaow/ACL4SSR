@@ -5,8 +5,10 @@
 DOMAIN-SUFFIX,myunraid.net
 DOMAIN-SUFFIX,xiaow.org
 DOMAIN-SUFFIX,iee.ee
-DOMAIN-SUFFIX,picouo.com
-PROCESS-NAME,nezha-agent,DIRECT
+
+#哪吒
+DOMAIN,st.wlinks.top
+PROCESS-NAME,nezha-agent
 
 #种子
 DOMAIN-KEYWORD,tracker
