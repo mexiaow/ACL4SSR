@@ -4,7 +4,7 @@
 #DOMAIN-SUFFIX,hostloc.com
 
 #V2EX
-#DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2ex.com
 
 #Gemini
 # DOMAIN,generativelanguage.googleapis.com
