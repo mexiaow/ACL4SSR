@@ -1,5 +1,5 @@
 # 需要强制走代理的规则
-
+DOMAIN-SUFFIX,challenges.cloudflare.com
 
 #观众
 DOMAIN-SUFFIX,audiences.me  
