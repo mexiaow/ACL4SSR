@@ -1,0 +1,17 @@
+#自动选择规则匹配
+
+#PT站点
+DOMAIN-SUFFIX,audiences.me #观众
+DOMAIN-SUFFIX,hhanclub.top #憨憨
+DOMAIN-SUFFIX,m-team.cc #馒头
+DOMAIN-SUFFIX,m-team.io #馒头
+DOMAIN-SUFFIX,keepfrds.com #朋友
+DOMAIN-SUFFIX,hdsky.me #天空
+DOMAIN-SUFFIX,pterclub.com #猫站 
+DOMAIN-SUFFIX,pthome.net #家园
+DOMAIN-SUFFIX,springsunday.net #春天
+DOMAIN-SUFFIX,btschool.club #学校
+DOMAIN-SUFFIX,lemonhd.org #柠檬
+DOMAIN-SUFFIX,ourbits.club #我堡
+DOMAIN-SUFFIX,tjupt.org #北洋园
+DOMAIN-SUFFIX,ptchdbits.co #彩虹岛
