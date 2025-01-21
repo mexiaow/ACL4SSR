@@ -1,9 +1,9 @@
 #自动选择规则匹配 - 匹配自动选择节点
 
 
-
-
-
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN,api.github.com
 
 
 ###PT站
