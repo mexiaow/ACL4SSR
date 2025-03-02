@@ -1,6 +1,6 @@
 #自动选择规则匹配 - 匹配自动选择节点
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,challenges.cloudflare.com
+#DOMAIN-SUFFIX,cloudflare.com
 
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
