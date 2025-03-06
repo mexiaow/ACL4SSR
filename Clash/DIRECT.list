@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,myunraid.net
 DOMAIN-SUFFIX,xiaow.org
 DOMAIN-SUFFIX,iee.ee
-DOMAIN-SUFFIX,challenges.cloudflare.com
+#DOMAIN-SUFFIX,challenges.cloudflare.com
 
 #哪吒
 #DOMAIN,st.wlinks.top
