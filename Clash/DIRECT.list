@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,xiaow.org
 DOMAIN-SUFFIX,iee.ee
 #DOMAIN-SUFFIX,challenges.cloudflare.com
 
+DOMAIN-SUFFIX,1232323.xyz
+
 #哪吒
 #DOMAIN,st.wlinks.top
 PROCESS-NAME,nezha-agent
