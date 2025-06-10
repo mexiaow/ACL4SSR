@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN,api.github.com
-
+DOMAIN,raw.githubusercontent.com   
 
 ###PT站
 
