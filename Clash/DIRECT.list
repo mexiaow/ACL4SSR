@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,ip-api.com
 
 
 #常用
-#IP-CIDR,43.143.112.72/32
+IP-CIDR,43.143.112.72/32
 #IP-CIDR,172.83.159.31/32
 DOMAIN-SUFFIX,api.wlinks.top
 DOMAIN-SUFFIX,myunraid.net
