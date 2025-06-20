@@ -2,9 +2,11 @@
 
 
 #IP监测
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipapi.co
-DOMAIN-SUFFIX,ip-api.com
+DOMAIN,blog.cloudflare.com
+DOMAIN,developers.cloudflare.com
+DOMAIN,ahrefs.com
+DOMAIN,hostinger.com
+
 
 
 #常用
