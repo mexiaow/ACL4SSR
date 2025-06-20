@@ -1,8 +1,15 @@
 #强制DIRECT
 
+
+#IP监测
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip-api.com
+
+
 #常用
 #IP-CIDR,43.143.112.72/32
-IP-CIDR,172.83.159.31/32
+#IP-CIDR,172.83.159.31/32
 DOMAIN-SUFFIX,api.wlinks.top
 DOMAIN-SUFFIX,myunraid.net
 DOMAIN-SUFFIX,xiaow.org
@@ -13,7 +20,7 @@ DOMAIN-SUFFIX,1232323.xyz
 
 #哪吒
 #DOMAIN,st.wlinks.top
-PROCESS-NAME,nezha-agent
+#PROCESS-NAME,nezha-agent
 
 #种子
 DOMAIN-KEYWORD,tracker
