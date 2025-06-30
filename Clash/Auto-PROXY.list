@@ -2,10 +2,10 @@
 #DOMAIN-SUFFIX,challenges.cloudflare.com
 #DOMAIN-SUFFIX,cloudflare.com
 
-#DOMAIN-SUFFIX,themoviedb.org
-#DOMAIN-SUFFIX,tmdb.org
-#DOMAIN,api.github.com
-#DOMAIN,raw.githubusercontent.com   
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN,api.github.com
+DOMAIN,raw.githubusercontent.com   
 
 ###PT站
 
