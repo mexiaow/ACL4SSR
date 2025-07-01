@@ -1,0 +1,8 @@
+#纯净IP规则匹配
+#DOMAIN-SUFFIX,challenges.cloudflare.com
+#DOMAIN-SUFFIX,cloudflare.com
+
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN,api.github.com
+DOMAIN,raw.githubusercontent.com   
