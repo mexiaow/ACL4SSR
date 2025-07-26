@@ -1,5 +1,8 @@
 # 需要强制走代理的规则 - 匹配节点选择
 
+#国际媒体
+DOMAIN-SUFFIX,wetv.vip
+
 
 #PikPak
 DOMAIN,mypikpak.com
