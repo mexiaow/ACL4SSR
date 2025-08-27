@@ -37,9 +37,9 @@ DOMAIN,api-drive.mypikpak.com
 DOMAIN-KEYWORD,dl-a10b-
 DOMAIN-KEYWORD,dl-z01a-
 
-#B2
+#B2/S3上传
 DOMAIN-KEYWORD,pod-040-
-
+DOMAIN-KEYWORD,prod-files-secure
 ###PT站
 
 #观众
