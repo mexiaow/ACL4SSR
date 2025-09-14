@@ -41,6 +41,7 @@ DOMAIN-KEYWORD,dl-z01a-
 DOMAIN-KEYWORD,pod-040-
 DOMAIN-KEYWORD,prod-files-secure
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
+DST-PORT,5244
 
 
 ###PT站
